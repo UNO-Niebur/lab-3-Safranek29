@@ -1,7 +1,7 @@
 #RPS.py
-#Name:
-#Date:
-#Assignment:
+#Name:Louis Safranek
+#Date:02/05/26
+#Assignment:Lab 3
 import random
 
 def main():
